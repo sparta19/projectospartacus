@@ -4,6 +4,10 @@ hola angel
 
 https://github.com/
 
+ruta que debe crear la carpeta para guaradr o importar el proyecto
+
+C:\wamp64\www\la carpeta nueva(proyectospartacus)
+
 
 ---https://github.com/sparta19/projectospartacus.git
 
@@ -11,3 +15,5 @@ usuario;sparta19
 pw:sp4rt419
 
 coontinuara
+
+ruta que debe crear la carpeta
